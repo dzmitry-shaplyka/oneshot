@@ -17,7 +17,8 @@
 [Монета спуска](https://dnd.su/items/2282-coin_of_delving/)\
 [Неподвижный жезл](https://dnd.su/items/153-immovable_rod/)\
 [Развевающийся плащ](https://dnd.su/items/420-cloak_of_billowing/)\
-[Сумка хранения](https://dnd.su/items/227-bag_of_holding/)
+[Сумка хранения](https://dnd.su/items/227-bag_of_holding/)\
+[Сумка с бобами](https://dnd.su/items/225-bag_of_beans/)
 
 ## Снаряжение
 [Мифрильная кольчужная рубаха](https://dnd.su/items/2454-vanrak_s_mithral_shirt/)\
@@ -29,4 +30,4 @@
 [Адамантиновый доспех (не латы)](https://dnd.su/items/1-adamantine_armor/)\
 [Латы](http://dm-stuff.ru/gear-catalog/plate_armor)\
 [Волшебная палочка обнаружения магии](https://dnd.su/items/19-wand_of_magic_detection/)\
-[Волшебная палочка секретов](https://dnd.su/items/24-wand_of_secrets/)\
+[Волшебная палочка секретов](https://dnd.su/items/24-wand_of_secrets/)
