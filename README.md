@@ -2,6 +2,7 @@
 
 ## Волшебные предметы
 [Дыхательный пузырь](https://dnd.su/items/2280-breathing_bubble/)
+
 [Зелье увеличения](https://dnd.su/items/70-potion_of_growth/)
 [Камень удачи](https://dnd.su/items/82-stone_of_good_luck/)
 [Камни послания](https://dnd.su/items/84-sending_stones/)
