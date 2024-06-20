@@ -8,7 +8,6 @@
 [Зелье увеличения](https://dnd.su/items/70-potion_of_growth/)\
 [Камень удачи](https://dnd.su/items/82-stone_of_good_luck/)\
 [Камни послания](https://dnd.su/items/84-sending_stones/)\
-[Кружка трезвости](https://dnd.su/items/405-tankard_of_sobriety/)\
 [Кольцо хождения по воде](https://dnd.su/items/113-ring_of_water_walking/)\
 [Любовное зелье](https://dnd.su/items/125-philter_of_love/)\
 [Мазь Кеогтома](https://dnd.su/items/126-keoghtom_s_ointment/)\
@@ -18,7 +17,7 @@
 [Монета спуска](https://dnd.su/items/2282-coin_of_delving/)\
 [Неподвижный жезл](https://dnd.su/items/153-immovable_rod/)\
 [Развевающийся плащ](https://dnd.su/items/420-cloak_of_billowing/)\
-[Сумка хранения](https://dnd.su/items/227-bag_of_holding/)\
+[Сумка хранения](https://dnd.su/items/227-bag_of_holding/)
 
 ## Снаряжение
 [Мифрильная кольчужная рубаха](https://dnd.su/items/2454-vanrak_s_mithral_shirt/)\
